@@ -7,4 +7,8 @@ The project aims to creates route path though the streets that Neural Networks d
 
 ![alt text](https://i.ibb.co/3rVh5RZ/model-1.png)
 
+![alt text](https://i.ibb.co/yXGWtrD/Screenshot-4.png)
+
 ![alt text](https://i.ibb.co/ZHs24Dw/Screenshot-2.png)
+
+![alt text](https://i.ibb.co/Yt0nRpv/Screenshot-3.png)
